@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p><img align="left" src="https://github.com/Kumar22Ankit/Kumar22Ankit/blob/main/1.png" alt="Ankit Kumar" /></p>
+<p><img align="left" src="https://github.com/Kumar22Ankit/Kumar22Ankit/blob/main/2.png" alt="Ankit Kumar" /></p>
+<p><img align="left" src="https://github.com/Kumar22Ankit/Kumar22Ankit/blob/main/3.png" alt="Ankit Kumar" /></p>
+<p><img align="left" src="https://github.com/Kumar22Ankit/Kumar22Ankit/blob/main/4.png" alt="Ankit Kumar" /></p>
+<p><img align="left" src="https://github.com/Kumar22Ankit/Kumar22Ankit/blob/main/5.png" alt="Ankit Kumar" /></p>
+<p><img align="left" src="https://github.com/Kumar22Ankit/Kumar22Ankit/blob/main/6.png" alt="Ankit Kumar" /></p>
+
