@@ -1,9 +1,45 @@
-Hi there! I'm a DevOps and Cloud Computing enthusiast with a passion for building efficient and scalable systems. 🌐💻 With hands-on experience in managing cloud infrastructures across AWS, Google Cloud, and OpenStack, I thrive on tackling complex challenges and streamlining processes.
+## Hi there! 👋 I'm Ankit Kumar
+## 🚀 DevOps & Cloud Enthusiast | GDSC Lead | Founder - Abhiyantrik
+I'm passionate about building scalable, efficient, and production-ready cloud infrastructures using AWS, Google Cloud, and OpenStack. With hands-on experience in DevOps automation, Kubernetes, CI/CD pipelines, and cloud security, I thrive on solving complex challenges and optimizing system performance.
 
-Currently, I serve as the GDSC on Campus Lead at IEC College, where I inspire fellow students to explore the latest in tech. 🎓✨ I organize workshops, hackathons, and info sessions, including the exciting Gen AI Study Jam. My goal is to create an inclusive environment where everyone can learn and grow in the tech space.
+## 🔹 What I Do
+**💻 DevOps & Cloud:** Automating workflows, managing cloud deployments, and optimizing infrastructure with Kubernetes, Docker, Ansible, and Terraform.
 
-As the founder of Abhiyantrik, I’m committed to promoting STEM education and advocating for diversity within the tech community. 🌈🤝 Through various initiatives and events, I empower students to embrace technology and pursue their passions.
+**🚀 PreProdSync:** Building a Kubernetes-based pre-production testing environment to enhance deployment reliability.
 
-When I’m not coding or organizing events, you can find me writing technical content on cloud computing and DevOps tools. ✍️📚 I love sharing insights and helping others navigate their tech journeys. I’m also an avid learner, constantly exploring new technologies and best practices in the ever-evolving field of DevOps.
+**🎓 GDSC Lead (IEC College):** Organizing hackathons, workshops, and tech sessions, including Gen AI Study Jam, to empower students in emerging technologies.
 
-Let’s connect! I’m always open to collaborating on exciting projects, sharing knowledge, or discussing innovative ideas. 🚀💬
+**🌎 Founder - Abhiyantrik:** Promoting STEM education and diversity in tech through community-driven initiatives.
+
+**📚 Technical Content Creator:** Writing about Cloud Computing, DevOps tools, and best practices to help others navigate their tech journeys.
+
+## 📌 Projects & Interests
+**1. PreProdSync:** A Kubernetes-based CI/CD testing framework integrating GitHub Actions, Argo CD, Prometheus, and Grafana.
+
+**2. Portfolio Website:**  Built with modern web technologies, Dockerized, and deployed using Kubernetes.
+
+**3. Cloud Automation:**  Managing infrastructure with Terraform, Ansible, and GitHub Actions for seamless deployments.
+
+and many more ....
+
+## 🛠️ Tech Stack
+
+Cloud:           AWS, Google Cloud, OpenStack  
+Version Control: Git, GitHub  
+Languages:       Python, Bash, C++  
+CI/CD:           GitHub Actions, Argo CD  
+OS:              Debian, Ubuntu, Red Hat, Windows  
+IaC:             Terraform  
+Containers:      Docker, Kubernetes, Minikube  
+Automation:      Ansible, Chef  
+Monitoring:      Prometheus, Grafana  
+
+## 📫 Connect with Me
+**linkedin:** www.linkedin.com/in/ankit-kumar-a20478230, 
+
+**medium:** https://medium.com/@ankitkumar6034651,
+
+**mail:** ankitkumar22cloud@gmail.com
+
+Let’s connect and collaborate on exciting projects! 🚀💬
+
