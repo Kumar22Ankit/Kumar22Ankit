@@ -46,7 +46,7 @@ Monitoring:      Prometheus, Grafana
 
 **mail:** ankitkumar22cloud@gmail.com,
 
-**portfolio** https://tinyurl.com/5y4y3acc
+**portfolio** https://ankit-kr-portfolio.vercel.app/
 
 Let’s connect and collaborate on exciting projects! 🚀💬
 
